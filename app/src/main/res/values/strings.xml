@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">ShareText</string>
-    <string name="user_text">Typesomething</string>
+    <string name="user_text">Enter your message</string>
     <string name="button">Send</string>
+    <string name="second_activity">View text</string>
     <string name="view_text" />
+    <string name="activity1">Activity1</string>
+    <string name="activity2">Activity2</string>
 </resources>
